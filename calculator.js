@@ -2,7 +2,7 @@
 
 // Change Display
 function d(val) {
-	document.getElementbyId("d").value=val;
+	document.getElementById("d").value=val;
 }
 // Type numbers and operators
 function d(val) {
