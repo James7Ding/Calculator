@@ -4,8 +4,8 @@
 /* Calculator Box */
 .box {
 	background-color: #1A3A4F;
-	height: 300px;
-	width: 250px;
+	height: 350px;
+	width: 255px;
 	border-radius: 10px;
 	position: relative;
 	top: 80px;
